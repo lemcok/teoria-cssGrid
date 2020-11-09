@@ -1,0 +1,7 @@
+.container {
+    display: grid;
+    grid-template-columns: 100px 1fr 100px; /*definen el ancho de cada columna*/
+    grid-template-rows: 120px 150px; /*definen la altura de cada fila*/
+    gap: 20px; /*Es el spaciado q hay entre los items o cajas.*/
+}
+ 
